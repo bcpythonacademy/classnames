@@ -1,2 +1,2 @@
-classNames = ("Tai Kersten", "mike kim"
+classNames = ("Tai Kersten", "mike kim", "Brent Benofsky"
 )
